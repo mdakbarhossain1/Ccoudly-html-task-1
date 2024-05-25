@@ -1,7 +1,8 @@
 # Project Name
 Cloudly HTML Css Tast 1 
 ## Description
-A brief description of your project goes here.
+It's A simple HTML css js Landing page 
+Blog section have slider using swiper js 
 
 ## Technologies and Tools Used
 
@@ -13,8 +14,5 @@ A brief description of your project goes here.
 
 ## Installation
 
-To use this project, follow these steps:
-
-1. Clone the repository:
-   ```sh
    git clone https://github.com/mdakbarhossain1/Ccoudly-html-task-1
+    Live Site : https://cloudly-job-task-html.netlify.app/
