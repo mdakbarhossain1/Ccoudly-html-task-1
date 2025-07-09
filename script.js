@@ -7,6 +7,7 @@ burger.addEventListener("click", () => {
 });
 
 // console.log("first");
+console.log('tested')
 
 const swiper = new Swiper(".swiper", {
   loop: true,
